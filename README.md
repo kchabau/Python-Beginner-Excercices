@@ -18,4 +18,4 @@ A simulation of rolling a six-sided die. The user can roll the die multiple time
 
 ### 4. QR Code Generator
 
-A simple tool that generates QR codes from user-provided text or URLs and saves them as image files. This project introduces working with external libraries (such as `qrcode`), handling string input, and exporting data in a useful format. [See Code](Rock_Paper_Scisors.py)
+A simple tool that generates QR codes from user-provided text or URLs and saves them as image files. This project introduces working with external libraries (such as `qrcode`), handling string input, and exporting data in a useful format. [See Code](QR_Code_Generator.py)
